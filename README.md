@@ -1,1 +1,1 @@
-This is a Personal HR portfolio website created usimg HTML, CSS and Tailwind
+This is a Personal HR portfolio website created using HTML, CSS and Tailwind
